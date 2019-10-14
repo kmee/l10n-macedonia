@@ -1,6 +1,6 @@
-[![Runbot Status](https://runbot.odoo-community.org/runbot/badge/flat/${REPO_ID}/${BRANCH_NAME}.svg)](https://runbot.odoo-community.org/runbot/repo/github-com-oca-${REPO_NAME}-${REPO_ID})
-[![Build Status](https://travis-ci.com/OCA/${REPO_NAME}.svg?branch=${BRANCH_NAME})](https://travis-ci.com/OCA/${REPO_NAME})
-[![codecov](https://codecov.io/gh/OCA/${REPO_NAME}/branch/${BRANCH_NAME}/graph/badge.svg)](https://codecov.io/gh/OCA/${REPO_NAME})
+[![Runbot Status](https://runbot.odoo-community.org/runbot/badge/flat/287/12.0.svg)](https://runbot.odoo-community.org/runbot/repo/github-com-oca-l10n-macedonia-287)
+[![Build Status](https://api.travis-ci.com/OCA/l10n-macedonia.svg?branch=12.0)](https://travis-ci.com/OCA/l10n-macedonia)
+[![codecov](https://codecov.io/gh/OCA/l10n-macedonia/branch/12.0/graph/badge.svg)](https://codecov.io/gh/OCA/l10n-macedonia)
 
 # Odoo localization modules for R. Macedonia
 
